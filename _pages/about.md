@@ -18,13 +18,17 @@ Selected Publication
 ======
 
 [**ICML 2024**] Distribution Alignment Optimization through Neural Collapse for Long-tailed Classification
+
 **Jintong Gao**, He Zhao, Dandan Guo, and Hongyuan Zha
+
 [Link](https://openreview.net/pdf?id=Hjwx3H6Vci), [Code](https://github.com/JintongGao/DisA)
 
 ------
 
 [**NeurIPS 2023**] Enhancing Minority Classes by Mixing: An Adaptative Optimal Transport Approach for Long-tailed Classification
+
 **Jintong Gao**, He Zhao, Zhuo Li, Dandan Guo
+
 [Link](https://openreview.net/pdf?id=M7FQpIdo0X), [Code](https://github.com/JintongGao/Enhancing-Minority-Classes-by-Mixing)
 
 
