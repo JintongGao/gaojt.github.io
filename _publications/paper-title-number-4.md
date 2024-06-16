@@ -1,6 +1,7 @@
 ---
 title: "Distribution Alignment Optimization through Neural Collapse for Long-tailed Classification"
 collection: publications
+venue: 'ICML'
 permalink: /publication/paper-title-number-4
 date: 2024-05-02
 ---
