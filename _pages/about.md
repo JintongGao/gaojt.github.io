@@ -12,7 +12,7 @@ I’m interested in imbalanced learning, optimal transport, and interpretation o
 
 Address: Jilin University, Changchun, China
 
-Email: gaojt20@mails.jlu.edu.cn
+Email: gaojt23@mails.jlu.edu.cn
 
 ------
 
