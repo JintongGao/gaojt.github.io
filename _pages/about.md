@@ -19,6 +19,14 @@ Email: gaojt23@mails.jlu.edu.cn
 Selected Publication
 ======
 
+[**CVPRF 2026**] FedNPC: Stochastic Noise-driven Post-hoc Classifier Calibration Method for Federated Long-tailed Learning
+
+**Jintong Gao**, He Zhao, Yibo Yang, Dandan Guo
+
+[Link](https://openreview.net/pdf?id=4befwY9BMr), [Code](https://github.com/JintongGao/FedNPC)
+
+------
+
 [**ICML 2024**] Distribution Alignment Optimization through Neural Collapse for Long-tailed Classification
 
 **Jintong Gao**, He Zhao, Dandan Guo, and Hongyuan Zha
